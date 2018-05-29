@@ -14,7 +14,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 /**
- * @author True Meridian usman
+ * @author usman
  *
  */
 public class TC001_VerifyLoginWithInvalidCredentials {

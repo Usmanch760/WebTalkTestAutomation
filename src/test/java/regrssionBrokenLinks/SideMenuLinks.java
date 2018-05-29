@@ -4,7 +4,7 @@
 package regrssionBrokenLinks;
 
 /**
- * @author True Meridian
+ * @author usman
  *
  */
 public class SideMenuLinks {

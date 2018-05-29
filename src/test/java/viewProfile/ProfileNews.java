@@ -4,7 +4,7 @@
 package viewProfile;
 
 /**
- * @author Usman Ahmad
+ * @author usman
  *
  */
 public class ProfileNews {

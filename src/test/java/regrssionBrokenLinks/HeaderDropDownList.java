@@ -14,7 +14,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 /**
- * @author True Meridian
+ * @author usman
  *
  */
 public class HeaderDropDownList {
